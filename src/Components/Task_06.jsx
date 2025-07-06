@@ -30,6 +30,7 @@ const Task_06 = () => {
         </div>
        
       </div>
+      
     </section>
   );
 };
