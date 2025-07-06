@@ -31,7 +31,7 @@ const Our_serviece = () => {
               voluptas cum distinctio quia minus, sint quibusdam neque ab quasi.
             </p>
             <div>
-              <button className="btn w-50 h-12 font-black text-xl btn-outline border-0 border-b-6 mt-8 border-t-2 border-l-4 border-l-amber-400 border-r-4 border-r-amber-400 border-orange-700">
+              <button className="btn w-50 h-12 hover:bg-orange-600 font-black text-xl btn-outline border-0 border-b-6 mt-8 border-t-2 border-l-4 border-l-amber-400 border-r-4 border-r-amber-400 border-orange-700">
                 Book  now
               </button>
             </div>
@@ -62,7 +62,7 @@ const Our_serviece = () => {
               voluptas cum distinctio quia minus, sint quibusdam neque ab quasi.
             </p>
             <div>
-              <button className="btn w-50 h-12 font-black text-xl btn-outline border-0 border-b-6 mt-8 border-t-2 border-l-4 border-l-amber-400 border-r-4 border-r-amber-400 border-orange-700">
+              <button className="btn w-50 h-12 hover:bg-orange-600 font-black text-xl btn-outline border-0 border-b-6 mt-8 border-t-2 border-l-4 border-l-amber-400 border-r-4 border-r-amber-400 border-orange-700">
                 Book  now
               </button>
             </div>

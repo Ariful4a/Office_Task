@@ -25,7 +25,7 @@ const Task_06 = () => {
             <br />
            <p className='text-gray-600'> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque ut harum dolore quas delectus ab nemo hic. Cum, minus accusamus! Enim omnis culpa facilis quod ab illum aut consequatur pariatur, a dolores in eum obcaecati officia beatae numquam! Libero laudantium odit quod pariatur incidunt nam aliquam qui cupiditate! Quam, dignissimos.</p>
             <div>
-                 <button className="btn w-50 h-12 font-black text-xl btn-outline border-0 border-b-6 mt-8 border-t-2 border-l-4 border-l-amber-400 border-r-4 border-r-amber-400 border-orange-700">Contact us</button>
+                 <button className="btn w-50 h-12 hover:bg-orange-600 font-black text-xl btn-outline border-0 border-b-6 mt-8 border-t-2 border-l-4 border-l-amber-400 border-r-4 border-r-amber-400 border-orange-700">Contact us</button>
             </div>
         </div>
        
