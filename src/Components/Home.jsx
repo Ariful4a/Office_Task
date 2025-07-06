@@ -1,10 +1,11 @@
-import Task_06 from "./Task_06";
+import Banner from "./Banner";
+
 
 const Home = () => {
     return (
         <div>
-           <div className="my-10 max-w-6xl mx-auto">
-             <Task_06></Task_06>
+           <div>
+            <Banner></Banner>
            </div>
         </div>
     );
