@@ -1,11 +1,16 @@
+import { Link } from "react-router";
+
 const Header = () => {
   const links = (
     <>
       <li>
-        <a>Item 1</a>
+        <Link to={'/'}>Home</Link>
       </li>
       <li>
-        <a>Item 3</a>
+        <Link to={'/contact'}>Task-03</Link>
+      </li>
+      <li>
+       <Link to={'task_06'}>Task-06</Link>
       </li>
     </>
   );
